@@ -12,14 +12,22 @@ This project replicates the design, layout, and UI of the Jio official website, 
 Reliance Jio is one of India’s largest telecommunications companies, offering services like mobile networks, broadband, and digital solutions. It has over 500 million users and played a major role in making internet access affordable in India.
 
 🚀 Features
+
 🏠 Modern Homepage UI
+
 📶 Mobile Plans / Services Sections
+
 🎨 Clean & Professional Design
+
 📱 Fully Responsive (Mobile + Desktop)
+
 ⚡ Fast Performance (Pure HTML & CSS)
+
 🛠️ Tech Stack
+
 HTML5
 CSS3 (Flexbox + Grid)
+
 📸 Screenshots
 
 <img width="1375" height="777" alt="image" src="https://github.com/user-attachments/assets/df571f25-e057-403a-aaa6-86b7b9145961" />
@@ -30,6 +38,7 @@ CSS3 (Flexbox + Grid)
 Jio-Clone/
 
 │── index.html
+
 │── README.md
 
 ⚙️ How to Run
